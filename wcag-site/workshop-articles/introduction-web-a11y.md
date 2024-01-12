@@ -1,15 +1,12 @@
-# What is Accessibility 
+# What is Accessibility
 
-A Wikipedia search will say : 
-Accessibility is the design of products, devices, services, vehicles, or environments so as to be usable by people with disabilities.
+**Definition:** According to Wikipedia, accessibility refers to the design of products, devices, services, vehicles, or environments to be usable by people with disabilities. A more inclusive definition is that accessibility ensures *all* people, regardless of their abilities, can interact with products, devices, services, vehicles, or environments.
 
-But a better way to put it is Accessibility ensures that "all" people regardless of there ability, can interact with products, devices, services, vehicles or the environments.
+In the context of Dotcontrol, accessibility means ensuring that everyone, including people with disabilities, can use and contribute to the Web.
 
-If we look to Accessibility thru the Dotcontrol lens, it will mean that everybody even people with disabilities can use, and contribute to the Web.
+# Living Life with Disabilities
 
-# Living life with Disabilities
-
-Types of disabilities are :
+Disabilities can vary and include:
 
 - Vision
 - Movement
@@ -19,50 +16,52 @@ Types of disabilities are :
 - Communicating
 - Hearing
 - Mental Health
-- Social relationships
+- Social Relationships
 
-A person can have a disability for a short period of time, but also it can be so that someone has to live with a disability for the rest of it's life.
+Disabilities can be temporary or lifelong. People may have more than one disability, and individuals with the same disability can experience it differently.
 
-A person can have more than 1 disability, but also 2 people with the same disability can experience the affects in a different way. 
+### (Research Note)
+Conduct research on disability statistics in Curaçao, the Netherlands, and Europe to provide specific insights.
 
-### (Make a research of statistics around disabilities, for Curacao, the Netherlands and Europe Show some static)
+# The Costs of an Inaccessible Web
 
+Society often overlooks people with disabilities, but the costs of an inaccessible web are significant for everyone. Consider the impact on individuals who may not have disabilities themselves but are connected to someone who does. Inaccessible websites can hinder opportunities in employment, education, and access to vital information (e.g., during the Covid-19 pandemic).
 
-# The Costs of an inaccessible web  
+# Benefits of an Accessible Web
 
-Even tho society in some way has separated people with disabilities from what we call normal. 
-we should be aware of the costs of an inaccessible web can have on our self even if we do not have a disability. We can maybe have a relative that does have a disability, or maybe our grandparents, they maybe want to pay a bill, or get some information about a medication.
-or maybe we can be disabled our self for some short period of time. It can make that someone with a very bright mind lose opportunities, like Work, or Educational. Or the can be simply left out of crucial information needed to save lives. (remember Covid19) 
+- **Civil Rights:** Recognizing and honoring the rights of all individuals, regardless of abilities.
+- **Legal Compliance:** Many regions have laws mandating web accessibility, making it a legal requirement for website owners.
+- **Business Advantages:** Accessible websites can attract a broader audience, including people with disabilities, enhancing business potential.
+- **Professional Pride:** Web developers, content creators, and designers can take pride in creating inclusive and accessible web experiences.
 
+# Diverse Ways of Web Interaction
 
-# Reasons (Benefits of having an Accessible Web )
+Users interact with the web in various ways. Some prefer traditional methods like a mouse, while others rely on alternative interfaces such as keyboards, single switches, head wands, or mouth sticks. Screen readers are also commonly used.
 
-- Civil Rights, We should honor everyone regardless of there abilities.
-- Legal issues, the main reason website owners should make sure that accessibility is an important part on there website.
-- Bringing in more Business, a simple example would be if you have a good web shop that is robust and accessible, now you will get people with disability also being able to buy or consume what ever you have to offer on your site.  
-- Pride in your craft. as a web developer, content creator or designer. (there will be someone thankful for your efforts)
+The approach to web accessibility is evolving. Instead of creating separate, off-screen interactions for users with disabilities, the goal is now to develop universally accessible applications. This inclusive design allows users with disabilities to engage with the same content as everyone else, using assistive technologies.
 
-# Ways we we use the Web
-Everybody is deferent, and each one of us have deferent needs. Most of us like to use the web with our beloved mouse, but there are people that are using the web with a keyboard only. 
-or even with "Single Switch", a Head wand or Mouth Stick. We also know about the screen readers. 
-
-it used to be so that for people with disabilities developers create a separate part on the app, know as off screen interactions. that if you want to use the app with keyboard only or with a screen reader. this would be detected and then shown to the user. 
-but these days are gone, we should aim on creating web accessible applications that do not separate of track people with disabilities.  they should be able to use or interact with what everybody is interacting with. while using assistive technologies.
-
-People with disabilities have made it loud and clear that they do not want to be tracked on the internet. The fear is they will be shut out of apps that could be made accessible, and instead forced to use low-quality text versions that lack features and aren’t well maintained. Marco Zehe put it well when he said:
-
-“Letting a website know you’re using a screen reader means running around the web waving a red flag that shouts ‘here, I’m visually impaired or blind!’ at anyone who is willing to look.”
-
-It would take away the one place where blind people can navigate around relatively undetected. That feedback should be respected.
+**Privacy Concerns:**
+People with disabilities have expressed concerns about being tracked online. The fear is that marking out users of assistive technologies could lead to segregated, lower-quality web experiences. Marco Zehe, an accessibility engineer and advocate at Mozilla, emphasizes the importance of anonymous web navigation for blind and visually impaired users.
 
 ### Overlapping Areas
 
-**SEO:**
-having a well semantically structured website would make it easier for search engines web crawlers or spiders to crawl your site.
+**SEO Benefits:**
+Websites with good semantic structure are more easily crawled by search engine bots, improving SEO.
 
+**Web Performance:**
+Faster loading pages not only make the website more "accessible" for people in remote areas but also enhance the experience for screen reader users. A slow or unresponsive website can significantly degrade the user experience for those relying on screen readers. For a practical understanding, watch this video demonstrating a screen reader navigating CNN's page: [Screen Reader Demo on CNN](https://youtu.be/EnmWUj4XKGg)
+
+**Security:**
+Inaccessible user interfaces can be a security issue. Think of a blind person not being able to log into a form or use an ATM without help. It would be an insecure practice to have to share your PIN or other personal details with someone else. When we make user interfaces accessible to people with disabilities, we don't force them to make a choice between access and security.
+
+**Customer & Business Growth:**
+The more accessible your site is, the more customers you could have! The more accessible your app is, the more contracts you could win that have accessibility as a requirement (e.g. government procurement, education software, banking software, etc.).
+
+Accessibility is often left out of a Minimum Viable Product which has the unfortunate effect of blocking people with disabilities from being early adopters. It's a real shame, since accessibility is easiest when you start from the beginning and don't immediately accrue design and development debt.
+
+User research with people with disabilities could highlight product opportunities and new customer segments that your organization would otherwise miss. Don't sleep on accessibility as part of your MVP!
 
 # Understanding Standards and Definitions
 
-
-
+[Content to be added]
 
