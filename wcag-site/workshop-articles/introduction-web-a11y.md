@@ -1,14 +1,15 @@
 ## What is Accessibility
 
-Web Accesiibility is the practice of ensuring that websites are usable by people of all abilities and disabilities. It is a broad topic that covers a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities.
+Web Accessibility is the practice of ensuring that websites are usable by people of all abilities and disabilities. It is a broad topic that covers a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities.
 
 Approximately 15% of the world's population has some form of disability. And they use the web using a variety of assistive technologies, such as screen readers, screen magnifiers, speech recognition software, alternative input devices, and more.
 
 Society often overlooks people with disabilities, but the costs of an inaccessible web are significant for everyone. Consider the impact on individuals who may not have disabilities themselves but are connected to someone who does. Inaccessible websites can hinder opportunities in employment, education, and access to vital information (e.g., during the Covid-19 pandemic).
 
-Most of us will experience some form of disability at some point in our lives. For example, we may have a temporary disability, such as a broken arm, or a permanent disability, such as a visual impairment. As we age, we may experience age-related disabilities, such as arthritis or hearing loss. And as we grow older, we may experience cognitive disabilities, such as memory loss. Even a father holding a baby in one arm while using a mobile phone with the other trying to book a medical appoiment is a form of temporary disability.
+**The cost of an inaccessible web is significant for everyone.** 
+Most of us will experience some form of disability at some point in our lives. For example, we may have a temporary disability, such as a broken arm, or a permanent disability, such as a visual impairment. As we age, we may experience age-related disabilities, such as arthritis or hearing loss. And as we grow older, we may experience cognitive disabilities, such as memory loss. Even a father holding a baby in one arm while using a mobile phone with the other trying to book a medical appointment is a form of temporary disability.
 
-In the context of Dotcontrol, we can be Accessibility Heroes by having a good understanding of the Web Accessibility. And so doing our best to create digil products that everyone use and enoy, including people with disabilities, can use and contribute to the Web.
+In the context of Dotcontrol, we can be Accessibility Heroes by having a good understanding of the Web Accessibility. And so doing our best to create digital products that everyone use and enjoy, including people with disabilities, can use and contribute to the Web.
 
 ## Living Life with Disabilities
 
@@ -60,30 +61,72 @@ Hearing Disabilities:
 
 Many people experience hearing problems due to aging.
 Loss of hearing is a common disability.
-Website-based videos should have audio descriptions.
-Audio descriptions are transcripts with adjustable font size and color options.
-Users with hearing disabilities may also have visual impairments.
+Website-based videos should have audio descriptions. An Audio descriptions is a transcripts of the video, describing what is being said on the video or describing sounds made in the video. 
 Videos with no background noise are essential for better understanding.
-Sign Language:
-
 Sign language is a common communication method for those with hearing disabilities.
-Watching YouTube videos on sign language is encouraged.
-Link to YouTube video on sign language
-Digital Accessible Information System (DAISY):
 
-DAISY is a technical standard for publishing digital content.
-It allows the creation of audio books or periodicals.
-This benefits users with disabilities.
-Audio substitutes help users learn from mp3 or xml formatted files.
-Users can search, place bookmarks, and navigate better using DAISY.
-Learn more about DAISY on the following page.
+### Learning, Cognitive, Necrological and hidden unnoticed disabilities.
+When we build accessible websites it is good practice to test against various combinations of disabilities i mind.
+
+- Attention Deficit Hyperactivity Disorder (ADHD), user with trouble focusing.
+- Autism
+- Down syndrome (intellectual disabilities)
+- Depression, mental health disabilities
+- Memory impairments
+- Multiple Sclerosis (MS), a disease that affects the brain and spinal cord
+- Dyslexia, a reading disability
+- Migraines, a severe headache
+- Epilepsy, a neurological disorder
+
+barriers for users with cognitive disabilities include:
+- Complex phrases, words or long sentences.
+- Flashing content, animations or moving content (e.g., carousels), three or below is recommended, refer to Web Content Accessibility Guidelines (WCAG) 2.3.1.
+- No options to stop, pause or animated or moving content.
+- Complex navigation
+- Audio of a media file starts automatically, with no turn off/on/pause options. 
+
+### Speech Disability
+
+When building Voice recognition or Voice Recording options in the website, it is important to consider the users with speech disabilities. 
+
+Speech disabilities include:
+- Dysarthria, a motor speech disorder, slow speech with limited movement of the tongue, lips, and jaw.
+- Alalia, speech delay.
+
+
+An example would be if you get a cold and temporarily lose your voice. it will be very difficult to communicate with others. so you will use text messaging or email to communicate with others, which if a very common in our world today. 
+
+It is quite common that websites provide a contact option for users via a phone call. This is a barrier for users with speech disabilities. It is important to provide other options such as email, chat, or text messaging. 
+
+
+### Physical Disability
+
+Any physical disability that affects the use of hands, arms, or mobility can be a barrier for users.
+
+Physical disabilities include:
+- Joint disorders
+- chronic pain
+- broken or loss of limbs
+- paralysis
+
+Many people with physical disabilities use assistive technologies, such as mouth sticks, head wands, or single switches, to interact with the web. So, it is important to make sure that the website is accessible using a keyboard.
+
+A famous example is Stephen Hawking, a theoretical physicist, cosmologist, and author, who had a motor neuron disease that gradually paralyzed him over the decades. He used a single switch to interact with the web.
+
+Common barriers for users with physical disabilities include:
+- No keyboard focus indicator, users does not know where they are on the page.
+- limited time is given to complete a action, eg. filling out a form for booking a flight.
+- small clickable areas
+- no skip navigation option, users are forced to navigate through all the links on the page, before reaching the main content.  
+- Not providing a clear narration of form navigation, users are not aware of the current form field they are on.
+- No clear error messages, users are not aware of the error and how to fix it.
+- or asking users to resubmit the complete form, when only one field is incorrect. 
 
 
 ### (Research Note)
 
 Conduct research on disability statistics in Curaçao, the Netherlands, and Europe to provide specific insights.
 
-## The Costs of an Inaccessible Web
 
 ## Benefits of an Accessible Web
 
@@ -119,14 +162,37 @@ Accessibility is often left out of a Minimum Viable Product which has the unfort
 
 User research with people with disabilities could highlight product opportunities and new customer segments that your organization would otherwise miss. Don't sleep on accessibility as part of your MVP!
 
+### Laws and Policies Around the World
+
+The following are some of the laws and policies around the world that require websites to be accessible:
+
+United States: The Americans with Disabilities Act (ADA)
+United Kingdom: The Equality Act 2010
+Europe: EN 301 549: “Accessibility requirements suitable for public
+procurement of ICT products and services in Europe”
+Canada: Web Standards for the Government of Canada, The
+Accessibility for Ontarians with Disabilities Act (AODA)
+
+
+## Web Accessibility development life cycle.
+
+
+### Accessibility Failure Models
+**"Accessibility is an Afterthought"**
+Trying to add accessibility features after creating the website is a common mistake. It is important to consider accessibility from the beginning of the project. This will help avoid costly mistakes and save time and money
+
+
+
+### Accessibility Success Models
+
 ## Understanding Standards and Definitions
 
 Web Content
-Accessibility Guidelines (WCAG7) is a world renowned guideline of
+Accessibility Guidelines (WCAG) is a world renowned guideline of
 accessibility recommendations, which is developed through the W3C
 process to help organizations meet the minimum standard accessibility
 guidelines and it has become critical for every organization to focus on
 implementing the accessibility checks at every stage of their application
 development to avoid unaffordable mistakes.
 
-[Content to be added]
+
