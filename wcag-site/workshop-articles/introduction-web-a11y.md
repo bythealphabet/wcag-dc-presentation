@@ -1,10 +1,16 @@
-# What is Accessibility
+## What is Accessibility
 
-**Definition:** According to Wikipedia, accessibility refers to the design of products, devices, services, vehicles, or environments to be usable by people with disabilities. A more inclusive definition is that accessibility ensures *all* people, regardless of their abilities, can interact with products, devices, services, vehicles, or environments.
+Web Accesiibility is the practice of ensuring that websites are usable by people of all abilities and disabilities. It is a broad topic that covers a wide range of disabilities, including visual, auditory, physical, speech, cognitive, language, learning, and neurological disabilities.
 
-In the context of Dotcontrol, accessibility means ensuring that everyone, including people with disabilities, can use and contribute to the Web.
+Approximately 15% of the world's population has some form of disability. And they use the web using a variety of assistive technologies, such as screen readers, screen magnifiers, speech recognition software, alternative input devices, and more.
 
-# Living Life with Disabilities
+Society often overlooks people with disabilities, but the costs of an inaccessible web are significant for everyone. Consider the impact on individuals who may not have disabilities themselves but are connected to someone who does. Inaccessible websites can hinder opportunities in employment, education, and access to vital information (e.g., during the Covid-19 pandemic).
+
+Most of us will experience some form of disability at some point in our lives. For example, we may have a temporary disability, such as a broken arm, or a permanent disability, such as a visual impairment. As we age, we may experience age-related disabilities, such as arthritis or hearing loss. And as we grow older, we may experience cognitive disabilities, such as memory loss. Even a father holding a baby in one arm while using a mobile phone with the other trying to book a medical appoiment is a form of temporary disability.
+
+In the context of Dotcontrol, we can be Accessibility Heroes by having a good understanding of the Web Accessibility. And so doing our best to create digil products that everyone use and enoy, including people with disabilities, can use and contribute to the Web.
+
+## Living Life with Disabilities
 
 Disabilities can vary and include:
 
@@ -20,21 +26,73 @@ Disabilities can vary and include:
 
 Disabilities can be temporary or lifelong. People may have more than one disability, and individuals with the same disability can experience it differently.
 
+### Visual, Disability
+
+Some of us use contact lenses or glasses to see the web. This is also a form of disability. For people with low vision, maybe using glasses or contact lenses is not enough, and they rely on features such as
+
+- zoom
+- font size
+- color and contrast
+- text spacing
+- text-to-speech
+
+using colors to convey information is a form of disability. For example, people with color blindness may not be able to distinguish between red and green. So, it is important to use other visual cues, such as icons, to convey information.
+
+other common visual barriers for users with low vision include:
+
+- no audio description for video content
+- missing captions for video content
+- no text alternatives for images
+- incorrect label for form fields (e.g, using a placeholder as a label)
+- no focus indicator for keyboard users
+- inconsistent navigation
+
+tools:
+AWS, NVDA and, “Digital accessible information system” (DAISY) is a technical standard to publish your
+digital content or any digital documents in audio books or periodicals to
+help users with disabilities
+
+### Hearing Disability
+
+People with hearing disabilities may not be able to hear audio content. So, it is important to provide captions for video content and transcripts for audio content.
+
+Hearing Disabilities:
+
+Many people experience hearing problems due to aging.
+Loss of hearing is a common disability.
+Website-based videos should have audio descriptions.
+Audio descriptions are transcripts with adjustable font size and color options.
+Users with hearing disabilities may also have visual impairments.
+Videos with no background noise are essential for better understanding.
+Sign Language:
+
+Sign language is a common communication method for those with hearing disabilities.
+Watching YouTube videos on sign language is encouraged.
+Link to YouTube video on sign language
+Digital Accessible Information System (DAISY):
+
+DAISY is a technical standard for publishing digital content.
+It allows the creation of audio books or periodicals.
+This benefits users with disabilities.
+Audio substitutes help users learn from mp3 or xml formatted files.
+Users can search, place bookmarks, and navigate better using DAISY.
+Learn more about DAISY on the following page.
+
+
 ### (Research Note)
+
 Conduct research on disability statistics in Curaçao, the Netherlands, and Europe to provide specific insights.
 
-# The Costs of an Inaccessible Web
+## The Costs of an Inaccessible Web
 
-Society often overlooks people with disabilities, but the costs of an inaccessible web are significant for everyone. Consider the impact on individuals who may not have disabilities themselves but are connected to someone who does. Inaccessible websites can hinder opportunities in employment, education, and access to vital information (e.g., during the Covid-19 pandemic).
-
-# Benefits of an Accessible Web
+## Benefits of an Accessible Web
 
 - **Civil Rights:** Recognizing and honoring the rights of all individuals, regardless of abilities.
 - **Legal Compliance:** Many regions have laws mandating web accessibility, making it a legal requirement for website owners.
 - **Business Advantages:** Accessible websites can attract a broader audience, including people with disabilities, enhancing business potential.
 - **Professional Pride:** Web developers, content creators, and designers can take pride in creating inclusive and accessible web experiences.
 
-# Diverse Ways of Web Interaction
+## Diverse Ways of Web Interaction
 
 Users interact with the web in various ways. Some prefer traditional methods like a mouse, while others rely on alternative interfaces such as keyboards, single switches, head wands, or mouth sticks. Screen readers are also commonly used.
 
@@ -61,7 +119,14 @@ Accessibility is often left out of a Minimum Viable Product which has the unfort
 
 User research with people with disabilities could highlight product opportunities and new customer segments that your organization would otherwise miss. Don't sleep on accessibility as part of your MVP!
 
-# Understanding Standards and Definitions
+## Understanding Standards and Definitions
+
+Web Content
+Accessibility Guidelines (WCAG7) is a world renowned guideline of
+accessibility recommendations, which is developed through the W3C
+process to help organizations meet the minimum standard accessibility
+guidelines and it has become critical for every organization to focus on
+implementing the accessibility checks at every stage of their application
+development to avoid unaffordable mistakes.
 
 [Content to be added]
-
