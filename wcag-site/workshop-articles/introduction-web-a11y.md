@@ -178,8 +178,20 @@ Accessibility for Ontarians with Disabilities Act (AODA)
 
 
 ### Accessibility Failure Models
-**"Accessibility is an Afterthought"**
-Trying to add accessibility features after creating the website is a common mistake. It is important to consider accessibility from the beginning of the project. This will help avoid costly mistakes and save time and money
+
+**"Accessibility is an Afterthought, or Testing at the End on a live website"**
+Trying to add accessibility features after creating the website is a common mistake. It is important to consider accessibility from the beginning of the project. What is meant by the beggining of the project is, from the point we are creating a persona, in the design phase, in the development phase, and in the testing phase.
+This will help avoid costly mistakes and save time and money.
+
+**"Accessibility as a Sprint"**
+Similar to the previous model, creating one sprint to tackle accessibility is not a good idea. Accessibility should be part of every sprint. This will help avoid accessibility debt.
+
+**"Accessibility as an Audit tool only"**
+Using a tool that does a check on the build check pipeline is not enough. It is important to have a human check as well. For example, a tool may not be able to detect if the alt text is meaningful or not. also tools can get outdated and not be able to detect new accessibility issues.
+
+It is very important for the developers to have a good understanding of the accessibility guidelines and to be able to implement them in the code. but also being able to test or debug or check PR's code for accessibility issues in the code.
+having a designated accessibility expert in the team, that does these checks regularly while the team is working on new features will be a good way to avoid costly mistakes in the future.
+
 
 
 
